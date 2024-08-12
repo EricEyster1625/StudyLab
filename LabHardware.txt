@@ -1,0 +1,24 @@
+
+
+FrankenLab is my home lab built from hardware that was one step away from the electronic recycle center. 
+This is not how you build a production environment, or even a development lab for commercial purposes. 
+
+DESKTOP
+Leneovo Thinkpad
+Windows 10
+
+SERVERS
+
+Dell Optiplex 9020 - yes, it is technically a desktop class machine
+ - Intel I7-4790 @ 3.6 GHz - Quad core   BIOS A08
+ - 8 GB RAM = 2 X 4GB
+ - 500 SSD
+ - 1TB SAS 
+ - Windows 8.1 - Build 6.3.9600  - latest version that was available from Dell for the recovery boot image
+ - Oracle VirtaulBox version 7.0.20
+
+
+
+NOTES
+I had planned on using Linux as the host OS, but was uanble to get any of the builds that I tried to install. It aprpears to be an issue the state of the hardware due to the age. The system clock resets when powered off overnight, which is indicator that this machine is not stable.
+
